@@ -1,0 +1,30 @@
+.x {
+    width:400px;
+    height:100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: burlywood;
+    opacity: 0.8;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.products {
+    width:20vw;
+    margin:30px auto;
+}
+
+.buttons {
+    margin-top: 20px;
+}
+
+button {
+    margin-right:10px;
+}
+
+.par1 {
+    font-size: 30px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
